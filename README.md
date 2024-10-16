@@ -8,8 +8,11 @@ As the London housing market continues to evolve, understanding what drives prop
  Key Insights:
 
 Property Type Matters: Penthouses and houses have the highest median prices, while studios and flats tend to be more affordable.
+
 Price Variations: Significant price variations exist within property types, especially in flats and new developments, often influenced by location and amenities.
+
 Impact of Outliers: Luxury properties skew the average price significantly, highlighting the importance of removing outliers to better understand typical market trends.
+
  What I Analyzed:
 
 House prices by property size, number of bedrooms, and bathrooms.
